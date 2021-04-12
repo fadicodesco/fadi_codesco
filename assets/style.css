@@ -286,11 +286,12 @@ body.theme-light footer a {
 .modal__footer {
   text-align: centre;
   a {
-    color: #585858;
+    color: #2CD02D;
   }
   i {
     color: #d02d2c;
   }
+  position: centre;
 }
 .modal__close {
   position: absolute;
