@@ -172,7 +172,7 @@ body.theme-dark {
 }
 body.theme-dark .card {
 	background-color: #313131;
-	color: #D3D3D3;
+	color: #2cd02d;
 }
 body.theme-dark .card .round {
 	border-color: #D3D3D3;
@@ -250,7 +250,7 @@ body.theme-light footer a {
   background-color: #fff;
   border-radius: 3px;
   text-transform: uppercase;
-  color: #585858;
+  color: #2cd02d;
   font-family: 'Roboto', sans-serif;
 }
 
