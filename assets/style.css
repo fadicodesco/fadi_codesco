@@ -27,6 +27,11 @@ p {
 	font-size: 14px;
 	line-height: 21px;
 }
+a {    
+        color: #2cd02d;
+        font-size: 14px;
+	line-height: 21px;
+}
 .card-container {
 	flex: 1;
 	display: flex;
